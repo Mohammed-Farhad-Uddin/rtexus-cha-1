@@ -63,7 +63,7 @@ const Cart = () => {
 
 
     return (
-        <div className="w-8/12 bg-gray-100 rounded mb-5 m-2 p-2 relative">
+        <div className="w-8/12 bg-gray-100 rounded mb-5 m-2 p-2 relative h-5/6">
             <p className="mb-5">List of item that have been selected</p>
             <table className="w-full">
                 <thead className="">

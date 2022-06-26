@@ -63,7 +63,7 @@ function App() {
 
         </div>
       </div>
-      <div className="flex w-full h-screen ">
+      <div className="flex w-full h-screen">
         <Product />
         <Cart />
       </div>
